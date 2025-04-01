@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # DeepFake Detection System with Blockchain Verification
 
 This README will guide you through the setup and running of the DeepFake Detection System, a Django-React application that uses blockchain technology for verification of images.
@@ -215,3 +216,6 @@ ljs282356@gmail.com
 
 
 
+=======
+# Honour
+>>>>>>> c7e760e0547c0df5a0cb8ef872e2e5b95d21d2ed

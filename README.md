@@ -1,6 +1,7 @@
 <center>
     <img src="https://erwachens.cn/blogimage/images/Avalon/08377ba11f283e0fd3af06127c3e26c.png" width=800 alt="cognitiveclass.ai logo"  />
 </center>
+
 # DeepFake Detection System with Blockchain Verification
 
 This README will guide you through the setup and running of the DeepFake Detection System, a Django-React application that uses blockchain technology for verification of images.
